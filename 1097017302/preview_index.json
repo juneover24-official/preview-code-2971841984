@@ -1,0 +1,31 @@
+{
+  "qq_number": "2971841984",
+  "group_number": "1097017302",
+  "updated_at": "2026-04-22T16:19:45.343171",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "拓麻歌子-闷.bds",
+      "thumb": "拓麻歌子-闷.bds_py_26_light_thumb.png",
+      "full": "拓麻歌子-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Kyon-拓麻歌子-脆",
+      "file": "拓麻歌子-脆.bds",
+      "thumb": "拓麻歌子-脆.bds_py_26_light_thumb.png",
+      "full": "拓麻歌子-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Mew-闷.bds",
+      "thumb": "Mew-闷.bds_py_26_light_thumb.png",
+      "full": "Mew-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Kyon-Mew-脆",
+      "file": "Mew-脆.bds",
+      "thumb": "Mew-脆.bds_py_26_light_thumb.png",
+      "full": "Mew-脆.bds_py_26_light.png"
+    }
+  ]
+}

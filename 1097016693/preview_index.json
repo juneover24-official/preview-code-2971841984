@@ -1,0 +1,43 @@
+{
+  "qq_number": "2971841984",
+  "group_number": "1097016693",
+  "updated_at": "2026-04-22T16:19:45.064942",
+  "skins": [
+    {
+      "name": "Kyon-拓麻歌子-脆",
+      "file": "拓麻歌子-融脆.bdi",
+      "thumb": "拓麻歌子-融脆.bdi_py_26_light_thumb.png",
+      "full": "拓麻歌子-融脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Mew-闷.bdi",
+      "thumb": "Mew-闷.bdi_py_26_light_thumb.png",
+      "full": "Mew-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "拓麻歌子-彩闷.bdi",
+      "thumb": "拓麻歌子-彩闷.bdi_py_26_light_thumb.png",
+      "full": "拓麻歌子-彩闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "Kyon-拓麻歌子-脆",
+      "file": "拓麻歌子-彩脆.bdi",
+      "thumb": "拓麻歌子-彩脆.bdi_py_26_light_thumb.png",
+      "full": "拓麻歌子-彩脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "Kyon-Mew-脆",
+      "file": "Mew-脆.bdi",
+      "thumb": "Mew-脆.bdi_py_26_light_thumb.png",
+      "full": "Mew-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "拓麻歌子-闷融.bdi",
+      "thumb": "拓麻歌子-闷融.bdi_py_26_light_thumb.png",
+      "full": "拓麻歌子-闷融.bdi_py_26_light.png"
+    }
+  ]
+}
