@@ -1,38 +1,8 @@
 {
   "qq_number": "2971841984",
   "group_number": "1004856297",
-  "updated_at": "2026-04-22T16:19:21.143423",
+  "updated_at": "2026-04-23T15:52:37.992150",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "发霉的书脊.bds",
-      "thumb": "发霉的书脊.bds_py_26_light_thumb.png",
-      "full": "发霉的书脊.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "代号001.bds",
-      "thumb": "代号001.bds_py_26_light_thumb.png",
-      "full": "代号001.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "碎星一号线.bds",
-      "thumb": "碎星一号线.bds_py_26_light_thumb.png",
-      "full": "碎星一号线.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "电子幻想2.bds",
-      "thumb": "电子幻想2.bds_py_26_light_thumb.png",
-      "full": "电子幻想2.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "电子幻想1.bds",
-      "thumb": "电子幻想1.bds_py_26_light_thumb.png",
-      "full": "电子幻想1.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "电子幻想1.bdi",
@@ -62,6 +32,36 @@
       "file": "电子幻想2.bdi",
       "thumb": "电子幻想2.bdi_py_26_light_thumb.png",
       "full": "电子幻想2.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "发霉的书脊.bds",
+      "thumb": "发霉的书脊.bds_py_26_light_thumb.png",
+      "full": "发霉的书脊.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "代号001.bds",
+      "thumb": "代号001.bds_py_26_light_thumb.png",
+      "full": "代号001.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "碎星一号线.bds",
+      "thumb": "碎星一号线.bds_py_26_light_thumb.png",
+      "full": "碎星一号线.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子幻想2.bds",
+      "thumb": "电子幻想2.bds_py_26_light_thumb.png",
+      "full": "电子幻想2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子幻想1.bds",
+      "thumb": "电子幻想1.bds_py_26_light_thumb.png",
+      "full": "电子幻想1.bds_py_26_light.png"
     }
   ]
 }

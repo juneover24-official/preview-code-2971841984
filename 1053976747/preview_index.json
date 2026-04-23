@@ -1,194 +1,8 @@
 {
   "qq_number": "2971841984",
   "group_number": "1053976747",
-  "updated_at": "2026-04-22T16:19:19.039763",
+  "updated_at": "2026-04-23T15:52:37.712650",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "我不是高斯-脆.bds",
-      "thumb": "我不是高斯-脆.bds_py_26_light_thumb.png",
-      "full": "我不是高斯-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-pink.bds",
-      "thumb": "-pink.bds_py_26_light_thumb.png",
-      "full": "-pink.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "我不是高斯-闷.bds",
-      "thumb": "我不是高斯-闷.bds_py_26_light_thumb.png",
-      "full": "我不是高斯-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "于未知中漫游-闷.bds",
-      "thumb": "于未知中漫游-闷.bds_py_26_light_thumb.png",
-      "full": "于未知中漫游-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "蜡炬成灰-脆.bds",
-      "thumb": "蜡炬成灰-脆.bds_py_26_light_thumb.png",
-      "full": "蜡炬成灰-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "碎纸-脆.bds",
-      "thumb": "碎纸-脆.bds_py_26_light_thumb.png",
-      "full": "碎纸-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "apple-脆.bds",
-      "thumb": "apple-脆.bds_py_26_light_thumb.png",
-      "full": "apple-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-grey.bds",
-      "thumb": "-grey.bds_py_26_light_thumb.png",
-      "full": "-grey.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-yellow.bds",
-      "thumb": "-yellow.bds_py_26_light_thumb.png",
-      "full": "-yellow.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-blue.bds",
-      "thumb": "-blue.bds_py_26_light_thumb.png",
-      "full": "-blue.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "标本-闷.bds",
-      "thumb": "标本-闷.bds_py_26_light_thumb.png",
-      "full": "标本-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "标本-脆.bds",
-      "thumb": "标本-脆.bds_py_26_light_thumb.png",
-      "full": "标本-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "于未知中漫游-脆.bds",
-      "thumb": "于未知中漫游-脆.bds_py_26_light_thumb.png",
-      "full": "于未知中漫游-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-brown.bds",
-      "thumb": "-brown.bds_py_26_light_thumb.png",
-      "full": "-brown.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "树氧-闷.bds",
-      "thumb": "树氧-闷.bds_py_26_light_thumb.png",
-      "full": "树氧-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "只影千山里-闷.bds",
-      "thumb": "只影千山里-闷.bds_py_26_light_thumb.png",
-      "full": "只影千山里-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "灰相纸.bds",
-      "thumb": "灰相纸.bds_py_26_light_thumb.png",
-      "full": "灰相纸.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "友人来信-脆.bds",
-      "thumb": "友人来信-脆.bds_py_26_light_thumb.png",
-      "full": "友人来信-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "碎纸-闷.bds",
-      "thumb": "碎纸-闷.bds_py_26_light_thumb.png",
-      "full": "碎纸-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "在斑驳的树影里生长-纯.bds",
-      "thumb": "在斑驳的树影里生长-纯.bds_py_26_light_thumb.png",
-      "full": "在斑驳的树影里生长-纯.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "友人来信-闷.bds",
-      "thumb": "友人来信-闷.bds_py_26_light_thumb.png",
-      "full": "友人来信-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "dottedline.bds",
-      "thumb": "dottedline.bds_py_26_light_thumb.png",
-      "full": "dottedline.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "蜡炬成灰-闷.bds",
-      "thumb": "蜡炬成灰-闷.bds_py_26_light_thumb.png",
-      "full": "蜡炬成灰-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "在斑驳的树影里生长.bds",
-      "thumb": "在斑驳的树影里生长.bds_py_26_light_thumb.png",
-      "full": "在斑驳的树影里生长.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "bottom-脆.bds",
-      "thumb": "bottom-脆.bds_py_26_light_thumb.png",
-      "full": "bottom-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-green.bds",
-      "thumb": "-green.bds_py_26_light_thumb.png",
-      "full": "-green.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "-Purple.bds",
-      "thumb": "-Purple.bds_py_26_light_thumb.png",
-      "full": "-Purple.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "bottom-闷.bds",
-      "thumb": "bottom-闷.bds_py_26_light_thumb.png",
-      "full": "bottom-闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "树氧-脆.bds",
-      "thumb": "树氧-脆.bds_py_26_light_thumb.png",
-      "full": "树氧-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "只影千山里-脆.bds",
-      "thumb": "只影千山里-脆.bds_py_26_light_thumb.png",
-      "full": "只影千山里-脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "apple-闷.bds",
-      "thumb": "apple-闷.bds_py_26_light_thumb.png",
-      "full": "apple-闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "树氧-脆.bdi",
@@ -374,6 +188,192 @@
       "file": "-yellow.bdi",
       "thumb": "-yellow.bdi_py_26_light_thumb.png",
       "full": "-yellow.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我不是高斯-脆.bds",
+      "thumb": "我不是高斯-脆.bds_py_26_light_thumb.png",
+      "full": "我不是高斯-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-pink.bds",
+      "thumb": "-pink.bds_py_26_light_thumb.png",
+      "full": "-pink.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我不是高斯-闷.bds",
+      "thumb": "我不是高斯-闷.bds_py_26_light_thumb.png",
+      "full": "我不是高斯-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "于未知中漫游-闷.bds",
+      "thumb": "于未知中漫游-闷.bds_py_26_light_thumb.png",
+      "full": "于未知中漫游-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡炬成灰-脆.bds",
+      "thumb": "蜡炬成灰-脆.bds_py_26_light_thumb.png",
+      "full": "蜡炬成灰-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "碎纸-脆.bds",
+      "thumb": "碎纸-脆.bds_py_26_light_thumb.png",
+      "full": "碎纸-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "apple-脆.bds",
+      "thumb": "apple-脆.bds_py_26_light_thumb.png",
+      "full": "apple-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-grey.bds",
+      "thumb": "-grey.bds_py_26_light_thumb.png",
+      "full": "-grey.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-yellow.bds",
+      "thumb": "-yellow.bds_py_26_light_thumb.png",
+      "full": "-yellow.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-blue.bds",
+      "thumb": "-blue.bds_py_26_light_thumb.png",
+      "full": "-blue.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "标本-闷.bds",
+      "thumb": "标本-闷.bds_py_26_light_thumb.png",
+      "full": "标本-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "标本-脆.bds",
+      "thumb": "标本-脆.bds_py_26_light_thumb.png",
+      "full": "标本-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "于未知中漫游-脆.bds",
+      "thumb": "于未知中漫游-脆.bds_py_26_light_thumb.png",
+      "full": "于未知中漫游-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-brown.bds",
+      "thumb": "-brown.bds_py_26_light_thumb.png",
+      "full": "-brown.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "树氧-闷.bds",
+      "thumb": "树氧-闷.bds_py_26_light_thumb.png",
+      "full": "树氧-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "只影千山里-闷.bds",
+      "thumb": "只影千山里-闷.bds_py_26_light_thumb.png",
+      "full": "只影千山里-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "灰相纸.bds",
+      "thumb": "灰相纸.bds_py_26_light_thumb.png",
+      "full": "灰相纸.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "友人来信-脆.bds",
+      "thumb": "友人来信-脆.bds_py_26_light_thumb.png",
+      "full": "友人来信-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "碎纸-闷.bds",
+      "thumb": "碎纸-闷.bds_py_26_light_thumb.png",
+      "full": "碎纸-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "在斑驳的树影里生长-纯.bds",
+      "thumb": "在斑驳的树影里生长-纯.bds_py_26_light_thumb.png",
+      "full": "在斑驳的树影里生长-纯.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "友人来信-闷.bds",
+      "thumb": "友人来信-闷.bds_py_26_light_thumb.png",
+      "full": "友人来信-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "dottedline.bds",
+      "thumb": "dottedline.bds_py_26_light_thumb.png",
+      "full": "dottedline.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡炬成灰-闷.bds",
+      "thumb": "蜡炬成灰-闷.bds_py_26_light_thumb.png",
+      "full": "蜡炬成灰-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "在斑驳的树影里生长.bds",
+      "thumb": "在斑驳的树影里生长.bds_py_26_light_thumb.png",
+      "full": "在斑驳的树影里生长.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "bottom-脆.bds",
+      "thumb": "bottom-脆.bds_py_26_light_thumb.png",
+      "full": "bottom-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-green.bds",
+      "thumb": "-green.bds_py_26_light_thumb.png",
+      "full": "-green.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "-Purple.bds",
+      "thumb": "-Purple.bds_py_26_light_thumb.png",
+      "full": "-Purple.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "bottom-闷.bds",
+      "thumb": "bottom-闷.bds_py_26_light_thumb.png",
+      "full": "bottom-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "树氧-脆.bds",
+      "thumb": "树氧-脆.bds_py_26_light_thumb.png",
+      "full": "树氧-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "只影千山里-脆.bds",
+      "thumb": "只影千山里-脆.bds_py_26_light_thumb.png",
+      "full": "只影千山里-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "apple-闷.bds",
+      "thumb": "apple-闷.bds_py_26_light_thumb.png",
+      "full": "apple-闷.bds_py_26_light.png"
     }
   ]
 }

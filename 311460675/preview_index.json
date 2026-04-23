@@ -1,44 +1,8 @@
 {
   "qq_number": "2971841984",
   "group_number": "311460675",
-  "updated_at": "2026-04-22T16:19:30.188652",
+  "updated_at": "2026-04-23T15:52:38.457528",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "GP.bds",
-      "thumb": "GP.bds_py_26_light_thumb.png",
-      "full": "GP.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "chillwave.bds",
-      "thumb": "chillwave.bds_py_26_light_thumb.png",
-      "full": "chillwave.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "shadows.bds",
-      "thumb": "shadows.bds_py_26_light_thumb.png",
-      "full": "shadows.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "TVT.bds",
-      "thumb": "TVT.bds_py_26_light_thumb.png",
-      "full": "TVT.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "我也是一把剑的回忆.bds",
-      "thumb": "我也是一把剑的回忆.bds_py_26_light_thumb.png",
-      "full": "我也是一把剑的回忆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "chillwave粉.bds",
-      "thumb": "chillwave粉.bds_py_26_light_thumb.png",
-      "full": "chillwave粉.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "TVT.bdi",
@@ -74,6 +38,42 @@
       "file": "chillwave粉.bdi",
       "thumb": "chillwave粉.bdi_py_26_light_thumb.png",
       "full": "chillwave粉.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "GP.bds",
+      "thumb": "GP.bds_py_26_light_thumb.png",
+      "full": "GP.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "chillwave.bds",
+      "thumb": "chillwave.bds_py_26_light_thumb.png",
+      "full": "chillwave.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "shadows.bds",
+      "thumb": "shadows.bds_py_26_light_thumb.png",
+      "full": "shadows.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "TVT.bds",
+      "thumb": "TVT.bds_py_26_light_thumb.png",
+      "full": "TVT.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我也是一把剑的回忆.bds",
+      "thumb": "我也是一把剑的回忆.bds_py_26_light_thumb.png",
+      "full": "我也是一把剑的回忆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "chillwave粉.bds",
+      "thumb": "chillwave粉.bds_py_26_light_thumb.png",
+      "full": "chillwave粉.bds_py_26_light.png"
     }
   ]
 }

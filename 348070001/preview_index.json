@@ -1,74 +1,8 @@
 {
   "qq_number": "2971841984",
   "group_number": "348070001",
-  "updated_at": "2026-04-22T16:19:17.450322",
+  "updated_at": "2026-04-23T15:52:37.188305",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "newmassage.bds",
-      "thumb": "newmassage.bds_py_26_light_thumb.png",
-      "full": "newmassage.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "草莓旋律脆.bds",
-      "thumb": "草莓旋律脆.bds_py_26_light_thumb.png",
-      "full": "草莓旋律脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "草莓旋律闷.bds",
-      "thumb": "草莓旋律闷.bds_py_26_light_thumb.png",
-      "full": "草莓旋律闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "春山手札闷.bds",
-      "thumb": "春山手札闷.bds_py_26_light_thumb.png",
-      "full": "春山手札闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "怀旧邮票脆.bds",
-      "thumb": "怀旧邮票脆.bds_py_26_light_thumb.png",
-      "full": "怀旧邮票脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "怀旧邮票闷.bds",
-      "thumb": "怀旧邮票闷.bds_py_26_light_thumb.png",
-      "full": "怀旧邮票闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "未录入磁带.bds",
-      "thumb": "未录入磁带.bds_py_26_light_thumb.png",
-      "full": "未录入磁带.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "心路.bds",
-      "thumb": "心路.bds_py_26_light_thumb.png",
-      "full": "心路.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "春山手札脆.bds",
-      "thumb": "春山手札脆.bds_py_26_light_thumb.png",
-      "full": "春山手札脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "玫瑰.bds",
-      "thumb": "玫瑰.bds_py_26_light_thumb.png",
-      "full": "玫瑰.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "四叶草的日记.bds",
-      "thumb": "四叶草的日记.bds_py_26_light_thumb.png",
-      "full": "四叶草的日记.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "春山手札闷.bdi",
@@ -134,6 +68,72 @@
       "file": "心路.bdi",
       "thumb": "心路.bdi_py_26_light_thumb.png",
       "full": "心路.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "newmassage.bds",
+      "thumb": "newmassage.bds_py_26_light_thumb.png",
+      "full": "newmassage.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "草莓旋律脆.bds",
+      "thumb": "草莓旋律脆.bds_py_26_light_thumb.png",
+      "full": "草莓旋律脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "草莓旋律闷.bds",
+      "thumb": "草莓旋律闷.bds_py_26_light_thumb.png",
+      "full": "草莓旋律闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "春山手札闷.bds",
+      "thumb": "春山手札闷.bds_py_26_light_thumb.png",
+      "full": "春山手札闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "怀旧邮票脆.bds",
+      "thumb": "怀旧邮票脆.bds_py_26_light_thumb.png",
+      "full": "怀旧邮票脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "怀旧邮票闷.bds",
+      "thumb": "怀旧邮票闷.bds_py_26_light_thumb.png",
+      "full": "怀旧邮票闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "未录入磁带.bds",
+      "thumb": "未录入磁带.bds_py_26_light_thumb.png",
+      "full": "未录入磁带.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "心路.bds",
+      "thumb": "心路.bds_py_26_light_thumb.png",
+      "full": "心路.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "春山手札脆.bds",
+      "thumb": "春山手札脆.bds_py_26_light_thumb.png",
+      "full": "春山手札脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "玫瑰.bds",
+      "thumb": "玫瑰.bds_py_26_light_thumb.png",
+      "full": "玫瑰.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "四叶草的日记.bds",
+      "thumb": "四叶草的日记.bds_py_26_light_thumb.png",
+      "full": "四叶草的日记.bds_py_26_light.png"
     }
   ]
 }
