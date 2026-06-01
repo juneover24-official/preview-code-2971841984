@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1097016693",
-  "updated_at": "2026-04-23T15:52:39.066813",
+  "updated_at": "2026-06-01T05:48:34+00:00",
   "skins": [
     {
       "name": "Kyon-拓麻歌子-脆",
@@ -38,6 +38,12 @@
       "file": "拓麻歌子-闷融.bdi",
       "thumb": "拓麻歌子-闷融.bdi_py_26_light_thumb.png",
       "full": "拓麻歌子-闷融.bdi_py_26_light.png"
+    },
+    {
+      "name": "Kyon-于你而言我是一颗星吗-闷",
+      "file": "于你而言我是一颗星吗-闷.bdi",
+      "thumb": "于你而言我是一颗星吗-闷.bdi_py_26_light_thumb.png",
+      "full": "于你而言我是一颗星吗-闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
