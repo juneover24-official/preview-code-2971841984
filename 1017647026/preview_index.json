@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1017647026",
-  "updated_at": "2026-06-02T00:08:42+00:00",
+  "updated_at": "2026-06-02T00:09:39+00:00",
   "skins": [
     {
       "name": "ㅠㅠ…",
@@ -44,6 +44,12 @@
       "file": "讯息.bds",
       "thumb": "讯息.bds_py_26_light_thumb.png",
       "full": "讯息.bds_py_26_light.png"
+    },
+    {
+      "name": "Kanyon-再见",
+      "file": "再见.bds",
+      "thumb": "再见.bds_py_26_light_thumb.png",
+      "full": "再见.bds_py_26_light_thumb.png"
     }
   ]
 }
