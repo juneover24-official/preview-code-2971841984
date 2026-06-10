@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1097017302",
-  "updated_at": "2026-06-01T05:47:32+00:00",
+  "updated_at": "2026-06-10T13:39:07+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -38,6 +38,12 @@
       "file": "于你而言我是一颗星吗-脆.bds",
       "thumb": "于你而言我是一颗星吗-脆.bds_py_26_light_thumb.png",
       "full": "于你而言我是一颗星吗-脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-愈-闷",
+      "file": "愈-闷.bds",
+      "thumb": "愈-闷.bds_py_26_light_thumb.png",
+      "full": "愈-闷.bds_py_26_light_thumb.png"
     }
   ]
 }
