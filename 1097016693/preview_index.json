@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1097016693",
-  "updated_at": "2026-06-10T16:00:51+00:00",
+  "updated_at": "2026-06-11T16:35:09+00:00",
   "skins": [
     {
       "name": "Kyon-拓麻歌子-脆",
@@ -68,6 +68,12 @@
       "file": "line-脆.bdi",
       "thumb": "line-脆.bdi_py_26_light_thumb.png",
       "full": "line-脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-line-闷",
+      "file": "line-闷.bdi",
+      "thumb": "line-闷.bdi_py_26_light_thumb.png",
+      "full": "line-闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
