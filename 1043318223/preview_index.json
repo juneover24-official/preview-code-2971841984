@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1043318223",
-  "updated_at": "2026-06-15T00:35:08+00:00",
+  "updated_at": "2026-06-15T13:48:57+00:00",
   "skins": [
     {
       "name": "ㅠㅠ…",
@@ -62,6 +62,12 @@
       "file": "我该怎么对你说谎.bdi",
       "thumb": "我该怎么对你说谎.bdi_py_26_light_thumb.png",
       "full": "我该怎么对你说谎.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-^o^",
+      "file": "o.bdi",
+      "thumb": "o.bdi_py_26_light_thumb.png",
+      "full": "o.bdi_py_26_light_thumb.png"
     }
   ]
 }
