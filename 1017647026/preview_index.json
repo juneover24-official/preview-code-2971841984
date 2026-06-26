@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1017647026",
-  "updated_at": "2026-06-15T13:47:13+00:00",
+  "updated_at": "2026-06-26T07:58:41+00:00",
   "skins": [
     {
       "name": "ㅠㅠ…",
@@ -62,6 +62,12 @@
       "file": "o.bds",
       "thumb": "o.bds_py_26_light_thumb.png",
       "full": "o.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-VV-2",
+      "file": "VV-2.bds",
+      "thumb": "VV-2.bds_py_26_light_thumb.png",
+      "full": "VV-2.bds_py_26_light_thumb.png"
     }
   ]
 }
