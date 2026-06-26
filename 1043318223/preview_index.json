@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1043318223",
-  "updated_at": "2026-06-15T20:17:13+00:00",
+  "updated_at": "2026-06-26T07:47:38+00:00",
   "skins": [
     {
       "name": "ㅠㅠ…",
@@ -74,6 +74,12 @@
       "file": "束花.bdi",
       "thumb": "束花.bdi_py_26_light_thumb.png",
       "full": "束花.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-VV-2",
+      "file": "VV-2.bdi",
+      "thumb": "VV-2.bdi_py_26_light_thumb.png",
+      "full": "VV-2.bdi_py_26_light_thumb.png"
     }
   ]
 }
