@@ -1,7 +1,7 @@
 {
   "qq_number": "2971841984",
   "group_number": "1017647026",
-  "updated_at": "2026-07-12T12:22:40+00:00",
+  "updated_at": "2026-11-16T14:16:14+00:00",
   "skins": [
     {
       "name": "ㅠㅠ…",
@@ -62,6 +62,13 @@
       "file": "VV-2.bds",
       "thumb": "VV-2.bds_py_26_light_thumb.png",
       "full": "VV-2.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Kyon-say",
+      "file": "say.bds",
+      "thumb": "say.bds_py_26_light_thumb.png",
+      "full": "say.bds_py_26_light_thumb.png",
+      "file_id": "c77215f9b85e454d03fe3cd28f9ef975"
     }
   ]
 }
